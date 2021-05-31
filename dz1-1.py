@@ -1,0 +1,6 @@
+name=input('whats your name: ')
+print(name)
+astro=input('whats your sign: ')
+print(astro)
+favN=int(input('whats your fav number: '))
+print(favN)
